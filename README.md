@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Philosophers have only interpreted the world in different ways. However, everything comes down to changing it. - Karl Marx
+
 <!--
 **Theseus904/Theseus904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
